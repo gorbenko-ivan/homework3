@@ -79,7 +79,7 @@ public class Main {
         float newSalaryMultipleir = 1 + (persent / 100f);
         float salaryNewMash = salaryMasha * newSalaryMultipleir;
         float salaryNewDenis = salaryDenis * newSalaryMultipleir;
-        float salaryNewChristina = salaryDenis * newSalaryMultipleir;
+        float salaryNewChristina = salaryChristina * newSalaryMultipleir;
         float mashaTotalSalaryDiff = (salaryNewMash - salaryMasha) * 12;
         float denisTotalSalaryDiff = (salaryNewDenis - salaryDenis) * 12;
         float christinaTotalSalaryDiff = (salaryNewChristina - salaryChristina) * 12;
