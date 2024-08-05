@@ -15,7 +15,7 @@ public class Main {
 
         float a1 = 27.12f;
         long b1 = 987678965549L;
-        float c1 = 2, 786f;
+        float c1 = 2.786f;
         short d1 = 569;
         short e1 = -159;
         short f1 = 27897;
